@@ -12,6 +12,20 @@ This tool demonstrates my strengths in Python,NLP.
 It’s the anchor of my updated portfolio, representing both technical depth and real-world impact.
 Live demo and GitHub link are included for hands-on exploration.
 
+
+🧰 Tech Stack
+- Languages: Python,SQL,Java,R
+- Tools: Streamlit, Salesforce CRM, SOQL, Git
+- Soft Skills: Communication, Documentation, Leadership.
+
+📫 Let's Connect
+- 💼 LinkedIn
+- 🧠 Portfolio
+- 📧 Email: [mailto:](sreenidhimuthyala12@gmail.com)
+l)
+
+
+
 <!---
 sreenidhi2211/sreenidhi2211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
