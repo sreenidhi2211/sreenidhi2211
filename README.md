@@ -19,7 +19,7 @@ Live demo and GitHub link are included for hands-on exploration.
 - Soft Skills: Communication, Documentation, Leadership.
 
 📫 Let's Connect
-- 💼 LinkedIn:[https://www.linkedin.com/in/muthyala-sreenidhi](url)
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/muthyala-sreenidhi/)
 - 🧠 Portfolio
 - 📧 Email: [mailto:](sreenidhimuthyala12@gmail.com)
 l)
