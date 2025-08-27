@@ -15,14 +15,13 @@ Live demo and GitHub link are included for hands-on exploration.
 
 🧰 Tech Stack
 - Languages: Python,SQL,Java,R
-- Tools: Streamlit, Salesforce CRM, SOQL, Git
+- Tools:VS Code,Google Colab,Jupyter Notebook, Streamlit, Salesforce CRM.
 - Soft Skills: Communication, Documentation, Leadership.
 
 📫 Let's Connect
 - 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/muthyala-sreenidhi/)
 - 🧠 Portfolio
-- 📧 Email: [mailto:](sreenidhimuthyala12@gmail.com)
-l)
+- 📧 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:sreenidhimuthyala12@gmail.com)
 
 
 
