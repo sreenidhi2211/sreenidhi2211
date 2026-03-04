@@ -4,6 +4,14 @@
 - 🛠️ Skilled in building user-friendly apps, refining documentation, and translating feedback into action
 - 🌱 Currently refining professional materials and preparing for Software development and Data Science roles.
 
+My Recent project is a salesforce App called "WEForYOU".This provides academic and mental well-being support for 
+students.
+WEForYou:
+Provide a 360° student view integrating academic records, risk factors, mentor/counselor interactions, curated tasks, and personalized success plans.
+Empower higher authorities with real‑time dashboards and reports on risks and retention for informed decision‑making.
+Automate at‑risk alerts, track mentor interactions for effectiveness, and enable proactive, personalized support.
+
+
 My Sentiment Analyzer is a Python and Streamlit-based tool designed to interpret user feedback with clarity and precision.
 It analyzes textual input to detect sentiment polarity.
 I focused on user experience and documentation to ensure accessibility for non-technical users.
