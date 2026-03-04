@@ -4,7 +4,7 @@
 - 🛠️ Skilled in building user-friendly apps, refining documentation, and translating feedback into action
 - 🌱 Currently refining professional materials and preparing for Software development and Data Science roles.
 
-My Recent project is a salesforce App called "WEForYOU".This provides academic and mental well-being support for 
+My Recent project is a Salesforce app called "WEForYOU".This provides academic and mental well-being support for 
 students.
 WEForYou:
 Provide a 360° student view integrating academic records, risk factors, mentor/counselor interactions, curated tasks, and personalized success plans.
