@@ -1,5 +1,5 @@
 🚀 About Me
-- 🎓 Specializing in Data Science with hands-on experience in Python, Salesforce CRM (Apex, Flow Builder, SOQL), and Streamlit
+- 🎓 Specializing in Data Science with hands-on experience in Python, SQL
 - 💬 Passionate about bridging technology and client needs through empathetic communication and data-driven solutions
 - 🛠️ Skilled in building user-friendly apps, refining documentation, and translating feedback into action
 - 🌱 Currently refining professional materials and preparing for Software development and Data Science roles.
@@ -22,8 +22,8 @@ Live demo and GitHub link are included for hands-on exploration.
 
 
 🧰 Tech Stack
-- Languages: Python,SQL,Java,R
-- Tools:VS Code,Google Colab,Jupyter Notebook, Streamlit, Salesforce CRM.
+- Languages: Python,SQL
+- Tools:VS Code,Google Colab,Jupyter Notebook
 - Soft Skills: Communication, Documentation, Leadership.
 
 📫 Let's Connect
